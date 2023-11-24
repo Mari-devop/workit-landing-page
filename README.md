@@ -1,6 +1,6 @@
 # Workit landing page challenge
 
-This is a solution to the [Workit landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/workit-landing-page-2fYnyle5lu). Frontend Mentor challeng helped me to improve my coding skills by building realistic project. 
+This is a solution to the [Workit landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/workit-landing-page-2fYnyle5lu). Frontend Mentor challenge helped me to improve my coding skills by building realistic project. 
 
 ## Table of contents
 
@@ -32,10 +32,9 @@ Users should be able to:
 
 
 
-### Links
+### Link
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://mari-devop.github.io/workit-landing-page/)
 
 ## My process
 
