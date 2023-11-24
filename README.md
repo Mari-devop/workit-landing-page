@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Link
 
-- Live Site URL: [Add live site URL here](https://mari-devop.github.io/workit-landing-page/)
+- Live Site URL: [live site URL](https://mari-devop.github.io/workit-landing-page/)
 
 ## My process
 
